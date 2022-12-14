@@ -1,0 +1,13 @@
+
+(профессиональная сборка)
+https://www.dns-shop.ru/conf/353d897b56ee845e/
+
+
+
+(простая сборка)
+
+https://www.dns-shop.ru/conf/588ede1423114cb6/       (с дополнениями)
+
+
+
+https://www.dns-shop.ru/conf/ed266bc8c441bf3c/        (без)
